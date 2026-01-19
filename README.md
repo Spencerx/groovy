@@ -129,7 +129,7 @@ groovy supports the following Python syntax and built-in functions. Other functi
 
 
 ### 📜 License
-groovy is open-source under the [MIT License](https://github.com/abidlabs/groovy/blob/main/LICENSE).
+groovy is open-source under the [Apache 2.0 License](https://github.com/abidlabs/groovy/blob/main/LICENSE).
 
 ---
 Contributions to increase coverage of the Python library that groovy can transpile are welcome! We welcome AI-generated PRs if the rationale is clear to follow, PRs are not too large in scope, and tests are included.
